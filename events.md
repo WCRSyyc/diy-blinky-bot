@@ -16,44 +16,48 @@
 * Wire Wrap Tools
 * Scissors
 * Wire Cutters
+* Straight Pins
 * Solder Sucker
 * X-acto Knife
+* cutting board
+* needle nose pliers
 
 ### Supplies
 * White glue
-* Cardstock squares (for glue)
-* Glue sticks
 * Hot Glue sticks
 * Solder
+* Cardstock squares (for glue)
 * Toothpicks
-* Brass Wire
-* Red/Black wire
-* Brads
-* Paper Clips
-* Googly Eyes
-* Yarn
-* Black pipe cleaners
 * Wet Wipes
 * Crayola markers and Tin
 * Scrap Cardstock and Tin
 * Scotch Tape
 * Sandwich baggies
-* Straight Pins
-* Coin Cell Batteries
-* Battery Holders
-* Plastic Rectangles (for paper clip switches)
-* Plastic Squares (for under battery holders)
-* Badge Pins
-* LEDs
-* Stick-on jewels
 
 ### Kits
 * Instructions
-* Ladybug
-* Bat
-* Frog
-* Elephant
-* Butterfly
-* Dodo Bird
-* Monster (pinned)
-* Monster (standup)
+  * Ladybug
+  * Black Bat
+  * Yellow Bat Badge
+  * Frog
+  * Elephant
+  * Butterfly
+  * Dodo Bird
+  * Monster (pinned)
+  * Monster (standup)
+  * Monkey
+  * Halloween Eyes
+* Spare Parts
+  * Coin Cell Batteries
+  * Battery Holders
+  * Paper Clips
+  * LEDs
+  * Plastic Rectangles (for paper clip switches)
+  * Badge (bar) Pins
+  * Stick-on jewels
+  * Brass Wire
+  * Red/Black wire
+  * Brads
+  * Googly Eyes
+  * Yarn
+  * Black pipe cleaners
