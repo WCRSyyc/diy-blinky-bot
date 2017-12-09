@@ -8,7 +8,7 @@ The standard tools
 
 Kits
 
-* [Bat Badge](Bat%20Badge.md)
+* [Bat Badge](BatBadge.md)
 
 ## Creating Kits
 
