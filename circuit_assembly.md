@@ -2,7 +2,10 @@
 
 ## Get the supplies:
 
-![Blink Bot kit supplies](pictures/bat_kit_parts.png)
+[Blink Bot kit supplies](pictures/bat_kit_parts.png)
+<p style="text-align:center">
+  <img src="pictures/bat_kit_parts.png"/>
+</p>
 
 ## Collect the Tools:
 
@@ -14,16 +17,15 @@
 
 1. Using the straight pin, punch two holes in the body for each LED.  Look at an LED to see how far apart the holes should be.  One wire of the LED needs to go through each hole.
 
-1. Insert the wire leads of the LEDs through the holes from the front side of the body.  Push the LEDs all of the way down to the body (all of the wire legs should be sticking out the back).
+1. Insert the wire leads of the LEDs through the holes from the front side of the body.  Push the LEDs all of the way down to the body (all of the wire legs should be sticking out the back).<br/>![Switch assembly front view](pictures/switch_assembly_front.jpg)
 
-  ![Switch assembly front view](pictures/switch_assembly_front.jpg)
 1. Assemble the switch from the corrugated rectangle, the two brads, and the paperclip according to the above picture.
   * put one brad through the small end of the paper clip
   * put the brad through one of the holes in the rectangle
   * bend the legs of the brad over on the back to hold it in place.
   * put the other brad through the second hole in the rectangle, and bend the legs over on the back.
+![Switch assembly back view](pictures/switch_assembly_back.png)
 
-  ![Switch assembly back view](pictures/switch_assembly_back.png)
 1. On the bottom of the switch, attach two black wires to one brad, and one black wire to the other bard.  Solder in place.
   * hold two of the black wires parallel, and twist the uninsulated (silver) ends at one end together.
     * three black wires for the Ladybug
