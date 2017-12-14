@@ -46,3 +46,45 @@ Pictures
 * Pic 16.png » pictures/BatBadgeHolderOnSwitch.png
   * aggressive crop blank edges; rescale to 350px width
 * WCRS Business Card.png
+
+## Witch (level 2)
+* WCRS Business Card.png ¦ unused duplicate
+* Witch Blink-bot Picture.jpg ¦ unused
+* Witch Pic 1.png » Witch-finished.png
+* Witch Pic 2.png » Witch-head-parts.png
+* Witch Pic 3.png » level2-tools.png
+* Witch Pic 4.png » blink-schematic.png
+* Witch Pic 5.png » resistor-parts.png
+* Witch Pic 6.png » schematic-resistor.png
+* Witch Pic 7.png » capacitor-parts.png
+* Witch Pic 8.png » schematic-capacitor.png
+* Witch Pic 9.png » diode-parts.png
+* Witch Pic 10.png » schematic-diode.png
+* Witch Pic 11.png » transistor-parts.png
+* Witch Pic 12.png » schematic-transistor.png
+* Witch Pic 13.png » breadboard-part.png
+* Witch Pic 14.png » npn-astable-multivibrator.png
+* Witch Pic 15.png » schematic-npn-transistor-.png
+* Witch Pic 16.png » npn-pinout.png
+* Witch Pic 17.png » Witch-head-parts.png
+* Witch Pic 18.png » Witch-assembled-head.png
+* Witch Pic 19.png » Witch-wire-pieces.png
+* Witch Pic 20.png » Witch-leds.png
+* Witch Pic 21.png » Witch-soldered-leds.png
+* Witch Pic 22.png » Witch-mounted-capacitors.png
+* Witch Pic 23.png » Witch-wired-capacitors.png
+* Witch Pic 24.png » Witch-mounted-transistors.png
+* Witch Pic 25.png » Witch-wired-transistors.png
+* Witch Pic 26.png » Witch-wired-emitters.png
+* Witch Pic 27.png » Witch-mounted-resistors.png
+* Witch Pic 28.png » Witch-wired-resistors.png
+* Witch Pic 29.png ¦ unused; replaced by generic image
+* Witch Pic 30.png » wired-level2-switch.png
+* Witch Pic 31.png » level2-switch-with-battery-holder.png
+* Witch Pic 32.png » Witch-wired-switch.png
+* Witch Pic 33.png » Witch-mounted-switch.png
+* Witch Template.pdf » Witch-template.pdf
+
+## Template files (for Blinky-bot bodys)
+
+* LibreOffice Writer » Export as PDF » Lossless compression; «uncheck» Reduce image resolution; Archive PDF/A-1a (ISO 19005-1); Submit format: PDF
