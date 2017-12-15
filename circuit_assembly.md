@@ -1,4 +1,4 @@
-# Blinky Bot Circuit Assembly
+﻿# Blinky Bot Circuit Assembly
 
 # <center><b>«kit» BLINKY-BOT INSTRUCTABLE</b></center>
 ---

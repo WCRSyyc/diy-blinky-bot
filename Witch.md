@@ -1,12 +1,13 @@
-﻿# <b>WITCH BLINKY-BOT INSTRUCTABLE</b>
+﻿# <center><b>WITCH BLINKY-BOT INSTRUCTABLE</b></center>
 ---
-## Level Two Build
+
+## **Level Two Build**
 
 ![Finished Witch](pictures/Witch-finished.png "Finished Witch")
 
-# WESTERN CANADIAN ROBOTICS SOCIETY
+# **WESTERN CANADIAN ROBOTICS SOCIETY**
 
-## Introduction
+## **Introduction****
 The Witch Blinky-bot described in this instructable is a Level Two project.&nbsp; Completing a Level One Blinky-bot is a pre-requisite before attempting this project.&nbsp; You can expect to spend a minimum of two hours building this project.
 
 The [electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit) for Level One Blinky-bots is quite simple, consisting of wires, a battery and some fast-blinking multi-coloured LEDs.&nbsp; The LEDs blink because of an internal circuit in the LEDs.&nbsp; For the Witch Blinky-bot described here (and for the comparable Frankenstein Blinky-bot), the circuit is more complicated, with three additional components -- resistors, capacitors and transistors.&nbsp; Two single-coloured LEDs blink in an alternating pattern, using a circuit known as an [astable multivibrator](https://en.wikipedia.org/wiki/Multivibrator).&nbsp; The Witch Blinky-bot uses two NPN transistors, while the Frankenstein Blinky-bot accomplishes the same task using two PNP transistors (more on this later).
@@ -23,7 +24,7 @@ The instructions presented in this booklet concentrate on assembly instructions.
 
 Obviously, a short booklet cannot cover all of these topics.&nbsp; However, links to other sources where you can learn about these topics are included throughout this instructable.&nbsp; By taking the time to go through these extra sections, you will learn valuable skills needed to design your own circuits.
 
-## Get the Supplies
+## **Get the Supplies**
 
 ![Supplies to build the Witch](pictures/Witch-supplies.png "The parts in the Witch kit")
 
@@ -56,7 +57,7 @@ Obviously, a short booklet cannot cover all of these topics.&nbsp; However, link
 
 **Note:** A template for the witch parts can be found here: [Witch-template.pdf](Witch-template.pdf)
 
-## Assemble the Tools
+## **Assemble the Tools**
 
 ![needed kit assembly tools](pictures/level2-tools.png "The tools used to assemble the Witch")
 
@@ -83,7 +84,7 @@ Obviously, a short booklet cannot cover all of these topics.&nbsp; However, link
 * multimeter (important for troubleshooting)
 * small container (to hold loose parts)
 
-## The Circuit
+## **The Circuit**
 
 The circuit used for the Witch Blinky-bot is known as an astable multivibrator.&nbsp; Two examples of an astable multivibrator circuit are shown below.&nbsp; The schematic on the left uses NPN transistors, whereas the schematic on the right uses PNP transistors.&nbsp; Both circuits produce the same result.&nbsp; The Witch Blinky-bot uses a circuit similar to the one on the left and the Frankenstein Blinky-bot uses a circuit similar to the one on the right.&nbsp; Note that there are many circuits to create an alternating blinking pattern with LEDs.&nbsp; (See the section on **[Getting the Most Out of This Project](#getting_the_most)**.&nbsp; Note that the values of components supplied with this kit are different than the example shown below.)
 
@@ -121,7 +122,7 @@ From: http://led-circuits.blogspot.ca/2011/02/2-transistor-led-flasher.html
 | ![schematic transistor symbol](pictures/level2-schematic-transistor.png "transistor schematic symbol") |
 | Note: The transistors used and described here are [Bipolar Junction Transistors](https://en.wikipedia.org/wiki/Bipolar_junction_transistor) (BJT).&nbsp; There are other types of transistors as well. |
 
-## Breadboard the Circuit
+## **Breadboard the Circuit**
 
 The circuit for the Witch Blinky-bot is sufficiently complicated that it is strongly recommended that you breadboard the circuit first.&nbsp; Troubleshooting a circuit on a breadboard is much easier than trying to troubleshoot a circuit that has already been soldered.&nbsp; Once you have the circuit working properly on the breadboard, you can then transfer it to the [card stock](https://en.wikipedia.org/wiki/Card_stock).
 
@@ -158,7 +159,7 @@ Once you have completed the circuit on a breadboard and carefully checked it for
 * The LEDs should blink in an alternating pattern.&nbsp; If they don’t, turn the power supply off and troubleshoot the circuit.&nbsp; A multimeter is useful to check connectivity.
 
 <a name="getting_the_most"></a>
-## Getting the Most Out of This Project
+## **Getting the Most Out of This Project**
 
 With your circuit working and before you solder it into a finished product, now is a good time to experiment with it and to customize it to your own preferences.
 
@@ -182,7 +183,7 @@ Here are some other activities to try:
 
 * Build another version of this circuit with a 555 timer chip, such as described here:</br></br>http://www.learningaboutelectronics.com/Articles/LED-flasher-circuit.php.
 
-## Assembling the Witch Blinky-Bot
+## **Assembling the Witch Blinky-Bot**
 
 * Cut out the face, hat, hatband, tongue, and teeth.
 
