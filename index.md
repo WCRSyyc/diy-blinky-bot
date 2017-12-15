@@ -10,12 +10,12 @@ The standard tools
 
 #### Level 1
 
-* [Bat Badge](BatBadge.md "Bat Badge")
-* [Monkey](Monkey.md "Monkey")
+* [Bat Badge](BatBadge.md)
+* [Monkey](monkey.md "Monkey")
 
 #### Level 2
 
-* [Witch](Witch.md "Witch")
+* [Witch](witch.md)
 
 ## Creating Kits
 
