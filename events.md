@@ -26,11 +26,11 @@
 * White glue
 * Hot Glue sticks
 * Solder
-* Cardstock squares (for glue)
+* Card stock squares (for glue)
 * Toothpicks
 * Wet Wipes
 * Crayola markers and Tin
-* Scrap Cardstock and Tin
+* Scrap Card stock and Tin
 * Scotch Tape
 * Sandwich baggies
 

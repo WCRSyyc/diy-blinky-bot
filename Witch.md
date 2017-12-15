@@ -9,7 +9,7 @@
 ## Introduction
 The Witch Blinky-bot described in this instructable is a Level Two project.&nbsp; Completing a Level One Blinky-bot is a pre-requisite before attempting this project.&nbsp; You can expect to spend a minimum of two hours building this project.
 
-The [electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit) for Level One Blinky-bots is quite simple, consisting of wires, a battery and some fast-blinking multi-colored LEDs.&nbsp; The LEDs blink because of an internal circuit in the LEDs.&nbsp; For the Witch Blinky-bot described here (and for the comparable Frankenstein Blinky-bot), the circuit is more complicated, with three additional components -- resistors, capacitors and transistors.&nbsp; Two single-colored LEDs blink in an alternating pattern, using a circuit known as an [astable multivibrator](https://en.wikipedia.org/wiki/Multivibrator).&nbsp; The Witch Blinky-bot uses two NPN transistors, while the Frankenstein Blinky-bot accomplishes the same task using two PNP transistors (more on this later).
+The [electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit) for Level One Blinky-bots is quite simple, consisting of wires, a battery and some fast-blinking multi-coloured LEDs.&nbsp; The LEDs blink because of an internal circuit in the LEDs.&nbsp; For the Witch Blinky-bot described here (and for the comparable Frankenstein Blinky-bot), the circuit is more complicated, with three additional components -- resistors, capacitors and transistors.&nbsp; Two single-coloured LEDs blink in an alternating pattern, using a circuit known as an [astable multivibrator](https://en.wikipedia.org/wiki/Multivibrator).&nbsp; The Witch Blinky-bot uses two NPN transistors, while the Frankenstein Blinky-bot accomplishes the same task using two PNP transistors (more on this later).
 
 The instructions presented in this booklet concentrate on assembly instructions.&nbsp; However, if you take the time, this project is a great opportunity to learn much more, such as:
 
@@ -34,7 +34,7 @@ Obviously, a short booklet cannot cover all of these topics.&nbsp; However, link
 * 1 – scrap piece of white card stock (6 cm x 2 cm)
 * 1 – white card stock with 3 teeth
 * 1 – scrap piece of black card stock (5 cm x 2 cm)
-* 2 – pieces of scrap card stock (2 cm x 2 cm, any color)
+* 2 – pieces of scrap card stock (2 cm x 2 cm, any colour)
 * 1 – piece of black yarn, 90 cm
 * 1 – piece of fabric (1½ cm x 1½ cm)</br></br>
 * 1 – 16 cm piece of black AWG 30
@@ -64,7 +64,7 @@ Obviously, a short booklet cannot cover all of these topics.&nbsp; However, link
 * breadboard
 * 5V/3.3 breadboard power supply (optional, but recommended)
 * 9V power supply (optional, but recommended)
-* solid core wire of multiple colors, stripped 3/4 cm on both ends (or male-male jumper wires)
+* solid core wire of multiple colours, stripped 3/4 cm on both ends (or male-male jumper wires)
 * hot glue gun and glue stick
 * white glue
 * toothpick (as a glue applicator)
@@ -87,7 +87,7 @@ Obviously, a short booklet cannot cover all of these topics.&nbsp; However, link
 
 The circuit used for the Witch Blinky-bot is known as an astable multivibrator.&nbsp; Two examples of an astable multivibrator circuit are shown below.&nbsp; The schematic on the left uses NPN transistors, whereas the schematic on the right uses PNP transistors.&nbsp; Both circuits produce the same result.&nbsp; The Witch Blinky-bot uses a circuit similar to the one on the left and the Frankenstein Blinky-bot uses a circuit similar to the one on the right.&nbsp; Note that there are many circuits to create an alternating blinking pattern with LEDs.&nbsp; (See the section on **[Getting the Most Out of This Project](#getting_the_most)**.&nbsp; Note that the values of components supplied with this kit are different than the example shown below.)
 
-![astable multivibrator schematic](pictures/blink-schematic.png "Schematic of Astable Multivibrator circuits")
+![astable multivibrator schematic](pictures/level2-blink-schematic.png "Schematic of Astable Multivibrator circuits")
 
 From: http://led-circuits.blogspot.ca/2011/02/2-transistor-led-flasher.html
 
@@ -96,29 +96,29 @@ From: http://led-circuits.blogspot.ca/2011/02/2-transistor-led-flasher.html
 ||
 | Simply stated, a schematic is a map, which shows how electronic components are connected between a power source and ground.&nbsp; This does not (necessarily) show where the components are placed, only how they are linked (by wires) together.&nbsp; To be able to build circuits, you will need to know the symbols for various electronic components.&nbsp; For this project, you will need to know the symbols for diodes, resistors, capacitors, transistors, batteries, and ground.&nbsp; (Note that LED’s are a type of diode, as LED stands for light emitting diode.)&nbsp; You also need to be careful of polarity when connecting your components.&nbsp; If a component has polarity, the positive end must be connected toward the power source and the negative end must be connected toward the ground.&nbsp; If a component does not have polarity, it may be connected in either direction.&nbsp; There are many sources to learn about circuit schematics.&nbsp; Here is one such source:</br></br>https://learn.sparkfun.com/tutorials/how-to-read-a-schematic |
 
-| <center>Resistors<center> |
+| <center>Resistors</center> |
 | :--- |
-| <center>![several different resistors](pictures/resistor-parts.png "example resistors")</center> |
+| ![several different resistors](pictures/level2-resistor-parts.png "example resistors") |
 | A resistor restricts the flow of current, in much the same way that a water faucet restricts the flow of water.&nbsp; Resistors help channel current flow in the right direction and protect other components, such as LEDs, from receiving too much current.&nbsp; Resistance, voltage, and current are related according to Ohm’s Law.&nbsp; Learn about resistors and Ohm’s Law here:</br></br>https://www.youtube.com/watch?v=Gc1wVdbVI0E</br></br>Resistance is measured in ohms.&nbsp; If you have not already done so, now is a good time to learn about how to use a multimeter to measure resistance.</br></br>https://www.youtube.com/watch?v=TdUK6RPdIrA
-| <center>![schematic resistor symbol](pictures/schematic-resistor.png "resistor schematic symbol") |
+| ![schematic resistor symbol](pictures/level2-schematic-resistor.png "resistor schematic symbol") |
 
-| <center>Capacitors<center> |
+| <center>Capacitors</center> |
 | :--- |
-| <center>![several different capacitors](pictures/capacitor-parts.png "example capacitors")</center> |
+| ![several different capacitors](pictures/level2-capacitor-parts.png "example capacitors") |
 | Capacitors store and discharge energy, much like a battery.&nbsp; The difference is that batteries store their energy in a chemical form, whereas capacitors store their energy in an electric field.&nbsp; Capacitance is measured in Farads.&nbsp; Larger capacitors have polarity, whereas smaller capacitors often do not.&nbsp; Here is one source to learn more about capacitors:</br></br>https://www.youtube.com/watch?v=0gZKik_BhQQ
-| <center>![schematic capacitor symbol](pictures/schematic-capacitor.png "capacitor schematic symbol") |
+| ![schematic capacitor symbol](pictures/level2-schematic-capacitor.png "capacitor schematic symbol") |
 
-| <center>Diodes<center> |
+| <center>Diodes</center> |
 | :--- |
-| <center>![several different diodes](pictures/diode-parts.png "example diodes")</center> |
+| ![several different diodes](pictures/level2-diode-parts.png "example diodes") |
 | A diode acts like a check valve; it allows current to flow in one direction and resists current flow in the other direction.&nbsp; Consequently, diodes have polarity.&nbsp; LEDs (light-emitting diodes) are just one of many types of diodes.&nbsp; The basis for a diode is a PN junction, which is also an important concept for transistors.&nbsp; To learn about PN junctions and diodes, check out:</br></br>https://www.youtube.com/watch?v=ar7xDMR4P_U |
-| <center>![schematic diode symbol](pictures/schematic-diode.png "diode schematic symbol") |
+| ![schematic diode symbol](pictures/level2-schematic-diode.png "diode schematic symbol") |
 
 | <center>Transistors</center> |
 | :--- |
-| <center>![several different transistors](pictures/transistor-parts.png "example transistors")</center> |
+| ![several different transistors](pictures/level2-transistor-parts.png "example transistors") |
 | A transistor can be used as a switch or as an amplifier.&nbsp; In the case of the Witch robot, the two transistors function as switches.&nbsp; (You can clearly see how the transistors function as switches if you do the simulator exercise.)&nbsp; When placing transistors in a circuit, make sure to carefully check the data sheet for the transistor to correctly identify the base, collector, and emitter legs.&nbsp; To learn more about transistors, check out the following sites:</br></br>https://www.youtube.com/watch?v=7ukDKVHnac4</br>http://www.explainthatstuff.com/howtransistorswork.html |
-| <center>![schematic transistor symbol](pictures/schematic-transistor.png "transistor schematic symbol")</center> |
+| ![schematic transistor symbol](pictures/level2-schematic-transistor.png "transistor schematic symbol") |
 | Note: The transistors used and described here are [Bipolar Junction Transistors](https://en.wikipedia.org/wiki/Bipolar_junction_transistor) (BJT).&nbsp; There are other types of transistors as well. |
 
 ## Breadboard the Circuit
@@ -127,14 +127,14 @@ The circuit for the Witch Blinky-bot is sufficiently complicated that it is stro
 
 | <center>How to Use a Breadboard</center> |
 | :-- |
-| <center>![typical breadboard](pictures/breadboard-part.png "830 tie point breadboard")</center> |
+| ![typical breadboard](pictures/level2-breadboard-part.png "830 tie point breadboard") |
 | There are many Internet sources that explain breadboarding.&nbsp; Here is one such source:</br></br> https://www.youtube.com/watch?v=6WReFkfrUIk</br></br>It is important to understand how to supply power to a breadboard and which the rails (or rows) on a breadboard are common (connected).&nbsp; Note that, by convention, the red rail is connected to power and the blue/black rail is connected to ground. |
 
 * Place the supplies into a small container to keep small parts from getting lost.
 
 * Following the schematic below, construct the astable multivibrator circuit on a breadboard.
 
-![NPN astable multivibrator schematic](pictures/npn-astable-multivibrator.png "schematic of astable multivibrator using NPN transistors")
+![NPN astable multivibrator schematic](pictures/level2-npn-astable-multivibrator.png "schematic of astable multivibrator using NPN transistors")
 
 Note that LEDs have polarity.&nbsp; The long leg of the LED is positive, so it is connected to the power side.&nbsp; The short leg is negative, so it is connected toward the ground side.
 
@@ -142,13 +142,12 @@ Note that the capacitors also have polarity.&nbsp; Like the LEDs, the long leg i
 
 All NPN transistors are represented by:
 
-![NPN transistor schematic symbol](pictures/schematic-npn-transistor.png "NPN transistor schematic symbol")
+![NPN transistor schematic symbol](pictures/level2-schematic-npn-transistor.png "NPN transistor schematic symbol")
 
 However, as shown below, the pinout (arrangement of the leads) depends on the transistor number.&nbsp; Two transistors types may be functionally identical, but the position of the base, emitter and collector legs is often different.&nbsp; So it important to be aware of which transistor you are using.&nbsp; Data sheets (readily available on the Internet) are a good source to verify the pinout.
 
-![alternate NPN transistor pinouts](pictures/npn-pinout.png "alternate NPN transistor pinouts")
+![alternate NPN transistor pinouts](pictures/level2-npn-pinout.png "alternate NPN transistor pinouts")
 
-<p style = "text-align:justify">
 Once you have completed the circuit on a breadboard and carefully checked it for errors:
 
 * Set the breadboard power supply to 3.3V.
@@ -169,7 +168,7 @@ Some questions that you might investigate are:
 
 * How does supply voltage affect the blinking rate?&nbsp; Try changing the voltage of the power supply from 3.3V to 5V.
 
-* How is the blink rate affected by changing the color of the LEDs?
+* How is the blink rate affected by changing the colour of the LEDs?
 
 * How is the blink rate affected by changing the resistance of the 39K resistor?
 
@@ -195,7 +194,7 @@ Here are some other activities to try:
 
 * Using white glue, glue the white piece of paper onto the back of the head, behind the eyes.
 
-* Using a red pen or fine-tipped marker, draw in circles (~12 mm) for the irises.&nbsp; Color the irises yellow.&nbsp; (A circle template may be helpful for this step.)
+* Using a red pen or fine-tipped marker, draw in circles (~12 mm) for the irises.&nbsp; Colour the irises yellow.&nbsp; (A circle template may be helpful for this step.)
 
 * Glue the teeth in from the backside of the face.
 
@@ -236,7 +235,7 @@ Here are some other activities to try:
 
 * With the straight pin, make two more holes, so that the second 100Ω resistor lies across the first 100Ω resistor.
 
-![Witch head with LEDs and 2 resistors inserted](pictures/Witch-leds.png "Witch head with LEDs and 2 resistors")
+![Witch head with LEDs and 2 resistors inserted](pictures/Witch-with-leds.png "Witch head with LEDs and 2 resistors")
 
 * Working from the backside, wirewrap the two positive leads of the LEDs together (long legs) with a 5cm red wire.&nbsp; Solder ONE connection.&nbsp; Trim the soldered lead to ½ cm.
 
@@ -254,7 +253,7 @@ Here are some other activities to try:
 
 * Working from the backside, wirewrap a 9cm yellow wire from the empty lead (unconnected leg) of the bottom resistor to the positive lead of the capacitor (long leg) sitting closest to the edge.&nbsp;
 
-* Use another 9cm yellow wire to wirewrap the empty lead of the top resistor to the positive lead of the capacitor sitting closest to the center.
+* Use another 9cm yellow wire to wirewrap the empty lead of the top resistor to the positive lead of the capacitor sitting closest to the centre.
 
 * Solder and trim the two resistor leads, but not the capacitor leads.
 
@@ -264,13 +263,13 @@ Here are some other activities to try:
 
 ![transistors inserted through hatband](pictures/Witch-mounted-transistors.png "transistors inserted through hatband")
 
-* Working from the backside, use a 6cm yellow wire to wirewrap the positive lead of the capacitor closest to the center to the collector of the transistor nearest the edge.&nbsp; Check to make sure that the capacitors are positioned appropriately on the front side.&nbsp; Then solder and trim the positive leg of the capacitor to ½ cm.
+* Working from the backside, use a 6cm yellow wire to wirewrap the positive lead of the capacitor closest to the centre to the collector of the transistor nearest the edge.&nbsp; Check to make sure that the capacitors are positioned appropriately on the front side.&nbsp; Then solder and trim the positive leg of the capacitor to ½ cm.
 
-* Use another 6cm yellow wire to wirewrap the positive lead of the capacitor nearest the edge to the collector of the transistor closest to the center.&nbsp; Check to make sure that the capacitors are positioned appropriately on the front side.&nbsp; Then solder and trim the positive lead of the capacitor to ½ cm.
+* Use another 6cm yellow wire to wirewrap the positive lead of the capacitor nearest the edge to the collector of the transistor closest to the centre.&nbsp; Check to make sure that the capacitors are positioned appropriately on the front side.&nbsp; Then solder and trim the positive lead of the capacitor to ½ cm.
 
 ![transistor collectors wired to positive of capacitors](pictures/Witch-wired-transistors.png "transistor collectors wired to positive of capacitors")
 
-* Use a 4cm yellow wire to wirewrap the negative lead of the capacitor closest to the center to the base of the transistor closest to the center.&nbsp; Check to make sure that the capacitors are positioned appropriately on the front side.&nbsp; Then solder and trim the negative lead of the capacitor to ½ cm.
+* Use a 4cm yellow wire to wirewrap the negative lead of the capacitor closest to the centre to the base of the transistor closest to the centre.&nbsp; Check to make sure that the capacitors are positioned appropriately on the front side.&nbsp; Then solder and trim the negative lead of the capacitor to ½ cm.
 
 * Use a 7cm yellow wire to wirewrap the negative lead of the capacitor to the base of the transistor (each closest to the edge).&nbsp; Check to make sure that the capacitors are positioned appropriately on the front side, then solder and trim the negative lead of the capacitor to ½ cm.
 
@@ -296,11 +295,11 @@ Here are some other activities to try:
 
 * Construct the switch as shown below, using two brass brads, a paperclip, and the corrugated plastic piece.
 
-![paper clip switch](pictures/SwitchAssembly.png "Switch: Top and Bottom")
+![paper clip switch](pictures/level1-switch-assembly.png "Switch: Top and Bottom")
 
 * On the backside of the plastic piece, solder a 5cm cm black wire to each of the brads.
 
-![switch with leads attached](pictures/wired-level2-switch.png "switch with leads soldered")
+![switch with leads attached](pictures/level2-wired-switch.png "switch with leads soldered")
 
 * Wirewrap the black wire from the middle of the switch to the negative (round) end of the battery holder.&nbsp; Wirewrap a 5cm red wire to the positive (square) end of the battery holder.&nbsp; Solder both battery holder connections.
 

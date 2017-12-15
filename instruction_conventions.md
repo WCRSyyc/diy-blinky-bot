@@ -14,77 +14,105 @@ Standard gimp png export settings for these pictures, unless otherwise specified
 * compression level 9 (maximum)
 
 Pictures
-* Pic 1.png » pictures/BatBadgeFinished.png 607x456
-* Pic 2.png » pictures/BatBadgeSupplies.png) 1224x1632
+* Pic 1.png » pictures/BatBadge-finished.png 607x456
+* Pic 2.png » pictures/BatBadge-supplies.png) 1224x1632
   * crop blank edges; rescale to 500px width
-* Pic 3.png » pictures/StandardTools.png (common to most Bots) 902x977
+* Pic 3.png » pictures/level1-tools.png (common to most Bots) 902x977
   * rescale to 500px width
-* Pic 4.png » pictures/BatBadgeBody.png 484x394
+* Pic 4.png » pictures/BatBadge-body.png 484x394
   * crop blank edges
-* Pic 5.png » pictures/BatBadgeLEDs.png 587x441
+* Pic 5.png » pictures/BatBadge-with-leds.png 587x441
   * crop blank edges; rescale to 500px width
-* Pic 6.png » pictures/SwitchAssembly.png (common) 1224x1632
+* Pic 6.png » pictures/level1-switch-assembly.png (common) 1224x1632
   * crop blank edges; rescale to 400px width
-* Pic 7.png » pictures/BlackWiresTwisted.png (common) 1224x1632
+* Pic 7.png » pictures/level1-twisted-wires.png (common) 1224x1632
   * crop blank edges; rotate 90° CCW; rescale to 350px width
-* Pic 8.png » pictures/BlackWiresLoop.png (common)
+* Pic 8.png » pictures/level1-twisted-loop.png (common)
   * aggressive crop edges; rescale to 350px width
-* Pic 9.png » pictures/TwistedWiresToSwitch.png (common) 1224x1632
+* Pic 9.png » pictures/level1-twisted-to-switch.png (common) 1224x1632
   * crop blank edges; rotate 90° CCW; rescale to 350px width
-* Pic 10.png » pictures/SolderedSwitch.png (common)
+* Pic 10.png » pictures/level1-soldered-switch.png (common)
   * crop blank edges; rescale to 350px width
-* Pic 11.png » pictures/BatteryHolderPlus.png (common)
+* Pic 11.png » pictures/level1-battery-holder-plus.png (common)
   * crop blank edges; rescale to 350px width
-* Pic 12.png » pictures/HolderWithSwitch.png (common)
+* Pic 12.png » pictures/level1-holder-with-switch.png (common)
   * crop blank edges; rotate 90° CCW; rescale to 350px width
-* Pic 13.png » pictures/BatBadgeWiredLEDs.png
+* Pic 13.png » pictures/BatBadge-wired-leds.png
   * crop blank edges; rescale to 350px width
-* Pic 14.png » pictures/BatBadgeFirstTest.png
+* Pic 14.png » pictures/BatBadge-first-test.png
   * crop blank edges; rotate 90° CCW; rescale to 350px width
-* Pic 15.png » pictures/BatBadgeTrimedWires.png
+* Pic 15.png » pictures/BatBadge-trimmed-wires.png
   * aggressive crop blank edges; rotate 90° CW; rescale to 350px width
-* Pic 16.png » pictures/BatBadgeHolderOnSwitch.png
+* Pic 16.png » pictures/BatBadge-switch-on-back.png
   * aggressive crop blank edges; rescale to 350px width
 * WCRS Business Card.png
 
+## Monkey
+
+Monkey Template.pdf » Monkey-template.pdf
+
+Pictures
+* Monkey Pic 1.png » pictures/Monkey-finished.png 1,224 × 1,632px
+  * rescale to width 600px
+* Monkey Pic 2.png » pictures/Monkey-supplies.png 489 × 462px
+* Monkey Pic 4.png » pictures/Monkey-assembled-body.png 1224 x 1632px
+  * crop blank space and rescale to width 400px
+* Monkey Pic 5.png » pictures/Monkey-on-branch.png 460 x 544px
+  * rescale to width 400px
+* Monkey Pic 6.png » pictures/Monkey-with-leds.png 1224 x 1632px
+  * aggressive crop and rescale to width 500px
+* Monkey Pic 7.png » pictures/Monkey-wired-leds.png 1224 x 1632px
+  * aggressive crop and rescale to width 350px
+* Monkey Pic 8.jpg » pictures/Monkey-first-test.png 1224 x 1632px
+  * aggressive crop edges; rescale to 350px width; convert to png
+* Monkey Pic 9.png » pictures/Monkey-trimmed-wires.png 1224 x 1632px
+  * aggressive crop edges; rescale to 350px width
+* Monkey Pic 10.png » pictures/Monkey-switch-on-back.png 608 x 665px
+  * rescale to 350px width
+* Pic «nn».png ¦ unused (duplicates of generic level 1 images)
+
 ## Witch (level 2)
+Considerable simplification from source markdown, got get rid of mixed html and markdown code.  They do not play nice together.
+
+Witch Template.pdf » Witch-template.pdf
+
+Pictures
 * WCRS Business Card.png ¦ unused duplicate
 * Witch Blink-bot Picture.jpg ¦ unused
-* Witch Pic 1.png » Witch-finished.png
-* Witch Pic 2.png » Witch-head-parts.png
-* Witch Pic 3.png » level2-tools.png
-* Witch Pic 4.png » blink-schematic.png
-* Witch Pic 5.png » resistor-parts.png
-* Witch Pic 6.png » schematic-resistor.png
-* Witch Pic 7.png » capacitor-parts.png
-* Witch Pic 8.png » schematic-capacitor.png
-* Witch Pic 9.png » diode-parts.png
-* Witch Pic 10.png » schematic-diode.png
-* Witch Pic 11.png » transistor-parts.png
-* Witch Pic 12.png » schematic-transistor.png
-* Witch Pic 13.png » breadboard-part.png
-* Witch Pic 14.png » npn-astable-multivibrator.png
-* Witch Pic 15.png » schematic-npn-transistor-.png
-* Witch Pic 16.png » npn-pinout.png
-* Witch Pic 17.png » Witch-head-parts.png
-* Witch Pic 18.png » Witch-assembled-head.png
-* Witch Pic 19.png » Witch-wire-pieces.png
-* Witch Pic 20.png » Witch-leds.png
-* Witch Pic 21.png » Witch-soldered-leds.png
-* Witch Pic 22.png » Witch-mounted-capacitors.png
-* Witch Pic 23.png » Witch-wired-capacitors.png
-* Witch Pic 24.png » Witch-mounted-transistors.png
-* Witch Pic 25.png » Witch-wired-transistors.png
-* Witch Pic 26.png » Witch-wired-emitters.png
-* Witch Pic 27.png » Witch-mounted-resistors.png
-* Witch Pic 28.png » Witch-wired-resistors.png
-* Witch Pic 29.png ¦ unused; replaced by generic image
-* Witch Pic 30.png » wired-level2-switch.png
-* Witch Pic 31.png » level2-switch-with-battery-holder.png
-* Witch Pic 32.png » Witch-wired-switch.png
-* Witch Pic 33.png » Witch-mounted-switch.png
-* Witch Template.pdf » Witch-template.pdf
+* Witch Pic 1.png » pictures/Witch-finished.png
+* Witch Pic 2.png » pictures/Witch-head-parts.png
+* Witch Pic 3.png » pictures/level2-tools.png
+* Witch Pic 4.png » pictures/level2-blink-schematic.png
+* Witch Pic 5.png » pictures/level2-resistor-parts.png
+* Witch Pic 6.png » pictures/level2-schematic-resistor.png
+* Witch Pic 7.png » pictures/level2-capacitor-parts.png
+* Witch Pic 8.png » pictures/level2-schematic-capacitor.png
+* Witch Pic 9.png » pictures/level2-diode-parts.png
+* Witch Pic 10.png » pictures/level2-schematic-diode.png
+* Witch Pic 11.png » pictures/level2-transistor-parts.png
+* Witch Pic 12.png » pictures/level2-schematic-transistor.png
+* Witch Pic 13.png » pictures/level2-breadboard-part.png
+* Witch Pic 14.png » pictures/level2-npn-astable-multivibrator.png
+* Witch Pic 15.png » pictures/level2-schematic-npn-transistor-.png
+* Witch Pic 16.png » pictures/level2-npn-pinout.png
+* Witch Pic 17.png » pictures/Witch-head-parts.png
+* Witch Pic 18.png » pictures/Witch-assembled-head.png
+* Witch Pic 19.png » pictures/Witch-wire-pieces.png
+* Witch Pic 20.png » pictures/Witch-with-leds.png
+* Witch Pic 21.png » pictures/Witch-soldered-leds.png
+* Witch Pic 22.png » pictures/Witch-mounted-capacitors.png
+* Witch Pic 23.png » pictures/Witch-wired-capacitors.png
+* Witch Pic 24.png » pictures/Witch-mounted-transistors.png
+* Witch Pic 25.png » pictures/Witch-wired-transistors.png
+* Witch Pic 26.png » pictures/Witch-wired-emitters.png
+* Witch Pic 27.png » pictures/Witch-mounted-resistors.png
+* Witch Pic 28.png » pictures/Witch-wired-resistors.png
+* Witch Pic 29.png ¦ unused; replaced by generic level 1 image
+* Witch Pic 30.png » pictures/level2-wired-switch.png
+* Witch Pic 31.png » pictures/level2-switch-with-battery-holder.png
+* Witch Pic 32.png » pictures/Witch-wired-switch.png
+* Witch Pic 33.png » pictures/Witch-mounted-switch.png
 
-## Template files (for Blinky-bot bodys)
+## Template files (for Blinky-bot bodies)
 
 * LibreOffice Writer » Export as PDF » Lossless compression; «uncheck» Reduce image resolution; Archive PDF/A-1a (ISO 19005-1); Submit format: PDF
