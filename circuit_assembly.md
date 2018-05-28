@@ -10,7 +10,7 @@
 ## **Get the Supplies**
 ![Supplies to build the «kit»](pictures/«kit»-supplies.png "The parts in this Blinky-bot kit")
 
-* «n» — «kit specific» part information</br></br>
+* «n» — «kit specific» part information<br/><br/>
 * 3 – 8 cm pieces of black AWG 30 wire (stripped ~1 cm on both ends)
 * 2 – 8 cm pieces of red AWG 30 wire (stripped ~1 cm on both ends)
 * 1 – coin cell battery holder
@@ -28,7 +28,7 @@
 
 * safety glasses
 * hot glue gun (with glue stick)
-* white glue or glue stick
+* white glue
 * scissors
 * wire cutters
 * wire wrap tool
@@ -73,13 +73,13 @@
 
 ![creating loop](pictures/level1-twisted-loop.png "Joined Wires with loop")
 
-* Working on the backside of the switch, slide this loop around one of the wings of the brass brad and into the centre of the brass brad.
+* Working on the backside of the switch, slide this loop around one of the wings of a brass brad and into the centre of the brass brad.
 
 ![2 wires soldered to switch](pictures/level1-twisted-to-switch.png "Joined Wires soldered to switch")
 
 * Solder these wires to the centre of the brass brad. Let the solder cool for a few seconds and then test to make sure the solder job is secure by tugging gently on the wires.
 
-* Find another black wire. Solder it to the other brass brad, in the same way that you just attached the first two wires, only this time you are only soldering a single wire. Test the wire to make sure it is soldered securely.
+* Find another black wire. Solder it to the other brass brad. Do this the same way that you just attached the first two wires, only this time you are only soldering a single wire. Test the wire to make sure it is soldered securely.
 
 ![switch with all wires soldered](pictures/level1-soldered-switch.png "Completed Switch")
 
@@ -89,7 +89,7 @@
 
 * Find the battery holder and two red wires. Turn the battery holder upside down so the pins are exposed.
 
-* Using the wire wrap tool, attach **one** of red wires to the **positive** pin (larger and square end) of the battery holder. Attach the second red wire to the **same** pin (positive).
+* Using the wire wrap tool, attach **one** red wire to the **positive** pin (larger and square end) of the battery holder. Attach the second red wire to the **same** pin (positive).
 
 * Solder the red wires in place. (Very little solder is required for soldering pins. Remember to preheat the pin before soldering.)
 
@@ -158,8 +158,8 @@
 ******************
 
 IDEA:
-* to get the images in place in the nested lists, attach them to previous list element with "</br></br>", without any EOL characters
-  * previous text</br></br>![alt text](pictures/file.jpg "title text")
+* to get the images in place in the nested lists, attach them to previous list element with "<br/><br/>", without any EOL characters
+  * previous text<br/><br/>![alt text](pictures/file.jpg "title text")
 * that *might* prevent the restarting of the outer numbering sequence, while keeping the image close to where it is want.  Just with a bit of indent for the nest level.
 
 ## Build the Blinky Bot
@@ -199,7 +199,7 @@ IDEA:
 
 1. Hot glue the back of the battery holder to the top of the switch assembly, across a corner furthest from the brads.
 
-1. Using the wire wrap tool, attach each of red wires to the longest leg of an LED.  A different LED for each red wire.  Be sure to insert the LED leg all the way in the centre tube of the wire wrap tool, so that the attached wire will wrap right against the body of the bot.
+1. Using the wire wrap tool, attach each red wire to the longest leg of an LED.  A different LED for each red wire.  Be sure to insert the LED leg all the way in the centre tube of the wire wrap tool, so that the attached wire will wrap right against the body of the bot.
 
 1. Using the wire wrap tool, attach each of the black wires to the shortest leg of an LED.  A different LED for each black wire.
 

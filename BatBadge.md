@@ -9,7 +9,7 @@
 ![Supplies to build the Bat Badge](pictures/BatBadge-supplies.png "The parts in this Blinky-bot kit")
 
 * 1 – bat body printed on yellow card stock
-* 1 – bar pin</br></br>
+* 1 – bar pin<br/><br/>
 * 3 – 8 cm pieces of black AWG 30 wire (stripped ~1 cm on both ends)
 * 2 – 8 cm pieces of red AWG 30 wire (stripped ~1 cm on both ends)
 * 1 – coin cell battery holder
@@ -71,13 +71,13 @@
 
 ![creating loop](pictures/level1-twisted-loop.png "Joined Wires with loop")
 
-* Working on the backside of the switch, slide this loop around one of the wings of the brass brad and into the centre of the brass brad.
+* Working on the backside of the switch, slide this loop around one of the wings of a brass brad and into the centre of the brass brad.
 
 ![2 wires soldered to switch](pictures/level1-twisted-to-switch.png "Joined Wires soldered to switch")
 
 * Solder these wires to the centre of the brass brad. Let the solder cool for a few seconds and then test to make sure the solder job is secure by tugging gently on the wires.
 
-* Find another black wire. Solder it to the other brass brad, in the same way that you just attached the first two wires, only this time you are only soldering a single wire. Test the wire to make sure it is soldered securely.
+* Find another black wire. Solder it to the other brass brad.  Do this the same way that you just attached the first two wires, only this time you are only soldering a single wire. Test the wire to make sure it is soldered securely.
 
 ![switch with all wires soldered](pictures/level1-soldered-switch.png "Completed Switch")
 
@@ -87,7 +87,7 @@
 
 * Find the battery holder and two red wires. Turn the battery holder upside down so the pins are exposed.
 
-* Using the wire wrap tool, attach **one** of red wires to the **positive** pin (larger and square end) of the battery holder. Attach the second red wire to the **same** pin (positive).
+* Using the wire wrap tool, attach **one** red wire to the **positive** pin (larger and square end) of the battery holder. Attach the second red wire to the **same** pin (positive).
 
 * Solder the red wires in place. (Very little solder is required for soldering pins. Remember to preheat the pin before soldering.)
 
@@ -149,6 +149,6 @@
 
 * VOILA! You are done!
 
-**Note:** The switch can be closed more securely by sliding the paperclip under the edge of the brass brad.
+**Note:** The switch can be closed more securely by sliding the paperclip under the edge of the head of the brass brad.
 
 ![business card with contact information](pictures/WCRS%20Business%20Card.png "Come see us!")

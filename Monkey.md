@@ -1,7 +1,7 @@
 ﻿# <center><b>MONKEY BLINKY-BOT INSTRUCTABLE</b></center>
 ---
 
-![Finished Monkey](pictures/Monkey-finished.png "Finished Blinky-bot")</center>
+![Finished Monkey](pictures/Monkey-finished.png "Finished Blinky-bot")
 
 # **WESTERN CANADIAN ROBOTICS SOCIETY**
 
@@ -13,7 +13,7 @@
 * 1 – piece of white card stock with printed eyes and nose
 * 1 – piece of light green card stock with five printed leaves
 * 1 – piece of dark green card stock with printed tree branch
-* 1 – bar pin</br></br>
+* 1 – bar pin<br/><br/>
 * 3 – 8 cm pieces of black AWG 30 wire (stripped ~1 cm on both ends)
 * 2 – 8 cm pieces of red AWG 30 wire (stripped ~1 cm on both ends)
 * 1 – coin cell battery holder
@@ -89,13 +89,13 @@ If you don’t have the appropriate colours of card stock, you can print the col
 
 ![creating loop](pictures/level1-twisted-loop.png "Joined Wires with loop")
 
-* Working on the backside of the switch, slide this loop around one of the wings of the brass brad and into the centre of the brass brad.
+* Working on the backside of the switch, slide this loop around one of the wings of a brass brad and into the centre of the brass brad.
 
 ![2 wires soldered to switch](pictures/level1-twisted-to-switch.png "Joined Wire soldered to switch")
 
 * Solder these wires to the centre of the brass brad. Let the solder cool for a few seconds and then test to make sure the solder job is secure by tugging gently on the wires.
 
-* Find another black wire. Solder it to the other brass brad, in the same way that you just attached the first two wires, only this time you are only soldering a single wire. Test the wire to make sure it is soldered securely.
+* Find another black wire. Solder it to the other brass brad.  Do this the same way that you just attached the first two wires, only this time you are only soldering a single wire. Test the wire to make sure it is soldered securely.
 
 ![switch with all wires soldered](pictures/level1-soldered-switch.png "Completed Switch")
 
@@ -163,10 +163,10 @@ If you don’t have the appropriate colours of card stock, you can print the col
 
 ![final result: back](pictures/Monkey-switch-on-back.png "Switch and Battery Holder glued in place")
 
-![final result: front](pictures/Monkey-finished.png "Completed Monkey Blinky-bot")</center>
+![final result: front](pictures/Monkey-finished.png "Completed Monkey Blinky-bot")
 
 * VOILA! You are done!
 
-**Note:** The switch can be closed more securely by sliding the paperclip under the edge of the brass brad.
+**Note:** The switch can be closed more securely by sliding the paperclip under the edge of the head of the brass brad.
 
 ![business card with contact information](pictures/WCRS%20Business%20Card.png "Come see us!")

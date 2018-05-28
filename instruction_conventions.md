@@ -4,7 +4,7 @@ This describes the steps to create the online Blinky Bot build instructions from
 
 ## Bat Badge
 
-This was the first set of instructions converted for web use.  Several of the pictures are common to all (almost) all Blinky Bots.  Processing of those can be skipped for the other Blinky Bots.  Unless we end up with a better source picture of course.  Many of the common pictures are only different for the Lady Bug, which has 3 LEDs, and needs an extra black wire on the switch, and an extra red wire on the battery holder.
+This was the first set of instructions converted for web use.  Several of the pictures are common to (almost) all Blinky Bots.  Processing of those can be skipped for the other Blinky Bots.  Unless we end up with a better source picture of course.  Many of the common pictures are only different for the Lady Bug, which has 3 LEDs, and needs an extra black wire on the switch, and an extra red wire on the battery holder.
 
 Standard gimp png export settings for these pictures, unless otherwise specified:
 * no save background color
@@ -72,7 +72,7 @@ Pictures
 * Pic «nn».png ¦ unused (duplicates of generic level 1 images)
 
 ## Witch (level 2)
-Considerable simplification from source markdown, got get rid of mixed html and markdown code.  They do not play nice together.
+Considerable simplification from source markdown, got rid of mixed html and markdown code.  They do not play nice together.
 
 Witch Template.pdf » Witch-template.pdf
 
