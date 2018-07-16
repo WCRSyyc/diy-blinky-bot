@@ -9,11 +9,26 @@ Information for working with the WCRS Blinky Bot projects.
 #### Level 1
 
 * [Bat Badge](BatBadge.md)
+* Black Bat
+* Butterfly
+* Dodo Bird
+* Duck
+* Elephant
+* Frog
+* LadyBug
 * [Monkey](Monkey.md)
+* Pinned Monster
+* Standing Monster
 
 #### Level 2
 
 * [Witch](Witch.md)
+* Frankenstein
+* [Astable Multivibrator](astable_multivibrator.md)
+
+#### Level 3
+
+* Pumpkin
 
 #### Printable booklets
 
@@ -45,7 +60,7 @@ Resources for creating Blinky Bot kits for others to build
 
 These are files containing images the *body parts* needed for the kits.  Each page needs to be printed on the appropriate colour of card stock.  Alternatively, the image for the page can be extracted, and the background colour modified to the right colour before printing.  That uses a lot of ink though.
 
-**NOTE:** Not all of the files exist yet.  The links were created with the files names that will be there later.  Just lazy.  I did not want to have to modify this file every time a new booklet or template was available.
+**NOTE:** Not all of the files exist yet.  The links were created with the files names that will be there later.  Just lazy.  I did not want to have to modify this file every time a new booklet or template was available.  Most that do not have a pdf link here yet, do exist as Microsoft Word documents in the [github repository](https://github.com/WCRSyyc/diy-blinky-bot).  Those tend to be older versions, and (for some people) may not be as convenient to download and print.
 
 #### Level 1
 * [BatBadge template](BatBadge-template.pdf)
@@ -64,6 +79,7 @@ These are files containing images the *body parts* needed for the kits.  Each pa
 
 * [Witch template](Witch-template.pdf)
 * [Frankenstein template](Frankenstein-template.pdf)
+* [Astable Multivibrator](Multivibrator-Circuit-template.pdf)
 
 ## documentation
 

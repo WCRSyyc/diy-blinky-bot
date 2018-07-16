@@ -33,7 +33,7 @@ If you don’t have the appropriate colours of card stock, you can print the col
 
 * safety glasses
 * hot glue gun (with glue stick)
-* white glue or glue stick
+* white glue
 * scissors
 * wire cutters
 * wire wrap tool
@@ -55,7 +55,7 @@ If you don’t have the appropriate colours of card stock, you can print the col
 
 ![monkey with face, ears, feet](pictures/Monkey-assembled-body.png "assembled monkey body")
 
-* Cut out the leaves and the tree branch.  Thread the tree branch behind the monkey’s foot and through the tail, as shown in the picture below.
+* Cut out the leaves and the tree branch. Thread the tree branch behind the monkey’s foot and through the tail, as shown in the picture below.
 
 * Glue the leaves on the tree branch.
 
@@ -65,15 +65,15 @@ If you don’t have the appropriate colours of card stock, you can print the col
 
 ## **Install the LEDs**
 
-*	Find the two LEDs and the straight pin. With the straight pin, punch **two holes in each** of the monkey’s eyes for the LEDs. Look at an LED and note how far apart the leads are; this is how far apart the two holes need to be. One lead of the LED needs to go through each hole.
+* Locate the two LEDs and the straight pin. With the straight pin, punch **two holes in each** of the monkey’s eyes for the LEDs. Look at an LED and note how far apart the leads are; this is how far apart the two holes need to be. One lead of the LED needs to go through each hole.
 
-* Install the LEDs through the holes. With a toothpick, place a small dab of glue under each LED (optional, but recommended for younger makers). Push the LEDs all the way down flat against the card stock. Turn the monkey upside down and set aside.
+* Install the LEDs through the holes. With a toothpick, place a small dab of glue under each LED (optional, but recommended for younger makers). Push the LEDs all the way down flat against the card stock. Turn the monkey face down and set aside to dry.
 
 ![Blinky-bot with LEDs](pictures/Monkey-with-leds.png "LEDs installed")
 
 ## **Assemble the Switch**
 
-* Find the two brass brads, the corrugated rectangle, and the paperclip. Assemble the switch from these parts according to the picture below.
+* Locate the two brass brads, the corrugated rectangle, and the paperclip. Assemble the switch from these parts according to the picture below.
 
 * Put one brad through one of the holes in the rectangle. Spread the wings on the other side to keep it in place.
 
@@ -81,33 +81,33 @@ If you don’t have the appropriate colours of card stock, you can print the col
 
 ![paper clip switch](pictures/level1-switch-assembly.png "Switch: Top and Bottom")
 
-* Find two black wires. Holding the two wires parallel with the stripped ends together, twist the stripped ends (the silver parts) together.
+* Locate two black wires. Holding the two wires parallel, with the ends lined up, twist the stripped ends (the silver parts) together. One end of the wires only.
 
 ![joined black wires](pictures/level1-twisted-wires.png "Joined Wires")
 
-* Bend a loop in the twisted part of the wire. (**Hint:** Wrapping the wire around the tube of the wire-wrapping tool is a convenient way to form the loop.)
+* Bend a loop in the twisted part of the pair of wires. (**Hint:** Wrapping the wire around the tube of the wire-wrapping tool is a convenient way to form the loop.)
 
 ![creating loop](pictures/level1-twisted-loop.png "Joined Wires with loop")
 
 * Working on the backside of the switch, slide this loop around one of the wings of a brass brad and into the centre of the brass brad.
 
-![2 wires soldered to switch](pictures/level1-twisted-to-switch.png "Joined Wire soldered to switch")
+![2 wires soldered to switch](pictures/level1-twisted-to-switch.png "Joined Wires soldered to switch")
 
 * Solder these wires to the centre of the brass brad. Let the solder cool for a few seconds and then test to make sure the solder job is secure by tugging gently on the wires.
 
-* Find another black wire. Solder it to the other brass brad.  Do this the same way that you just attached the first two wires, only this time you are only soldering a single wire. Test the wire to make sure it is soldered securely.
+* Locate another black wire. Solder it to the other brass brad. Do this the same way that you just attached the first two wires, only this time you are only soldering a single wire. Test the wire to make sure it is soldered securely.
 
 ![switch with all wires soldered](pictures/level1-soldered-switch.png "Completed Switch")
 
-**Soldering Hints:** When soldering, remember to first preheat the soldering point with the soldering iron before bringing in the solder. Hold the soldering iron at a low angle to the soldering point to provide sufficient contact for good heat transfer. Keep the soldering iron in place when you bring the solder in to the soldering point. Always return the soldering iron to its holder; **never** lay a soldering iron down on a worktable.
+**Soldering Hints:** When soldering, remember to heat the soldering point with the soldering iron before bringing in the solder. Hold the soldering iron at a low angle to the soldering point to provide sufficient contact for good heat transfer. Keep the soldering iron in place when you bring the solder in to the soldering point. Always return the soldering iron to its holder; **never** lay a soldering iron down on a worktable.
 
 ## **Assemble the Battery Holder**
 
-* Find the battery holder and two red wires. Turn the battery holder upside down so the pins are exposed.
+* Locate the battery holder and two red wires. Turn the battery holder upside down so the pins are exposed.
 
-* Using the wire wrap tool, attach **one** of the red wires to the **positive** pin (larger and square end) of the battery holder. Attach the second red wire to the **same** pin (positive).
+* Using the wire wrap tool, attach **one** red wire to the **positive** pin (larger and square end) of the battery holder. Attach the second red wire to the **same** pin (positive).
 
-* Solder the red wires in place. (Very little solder is required for soldering pins. Remember to preheat the pin before soldering.)
+* Solder the red wires in place. (Very little solder is required for soldering pins. Remember to heat the pin before bringing in the solder.)
 
 ![battery holder with red wires](pictures/level1-battery-holder-plus.png "Red Wires soldered to positive post of battery holder")
 
@@ -125,23 +125,23 @@ If you don’t have the appropriate colours of card stock, you can print the col
 
 * Using the wire wrap tool, attach one red wire from the battery holder to each of the **positive** (long) LED leads. Make sure to push the wire wrap tool all the way down to the card stock before wrapping the wire, as the LED leads will be trimmed down later.
 
-* Using the wire wrap tool, attach one of the two black wires from the switch to each of the **negative** (short) LED leads.
+* Using the wire wrap tool, attach one of the black wires from the switch to each of the **negative** (short) LED leads.
 
-![Monkey alt text](pictures/Monkey-wired-leds.png "monkey title text")
+![wires to LEDs](pictures/Monkey-wired-leds.png "Wires connected to LEDs")
 
 ## **Test it out!**
 
-* Put the battery into the battery holder with the **positive (+)** side up. (This often requires a fair bit of force, and it 'clicks' into place.)
+* Close the switch. (Move the paper clip across the two brads)
 
-* Close the switch. (Move the paper clip across the two brads.) Make sure that both of the LEDs are blinking. If not, you have some trouble-shooting to do (e.g., weak solder joints, backward wiring, wires bridging LED leads, upside down battery).
+* Put the battery into the battery holder with the **positive (+)** side up. It is not necessary to 'click' the battery into place. Simply holding it in place is enough to complete the circuit. Make sure that both of the LEDs are blinking. If not, you have some trouble-shooting to do (e.g., weak solder joints, backward wiring, wires bridging LED leads, upside down battery).
 
 ![powered for testing](pictures/Monkey-first-test.png "Testing the wiring")
 
-* Open the switch and remove the battery. To remove the battery, squeeze the metal tab on the top side of the battery, located at the positive end of the battery. (If finger pressure does not work, needle nose pliers may be needed.)
+* Remove the battery and open the switch. To remove the battery (when fully inserted), squeeze the metal tab on the top side, located at the positive end of the battery holder. (If finger pressure does not work, needle nose pliers may be needed.)
 
 ## **Solder the LED leads**
 
-* Solder each of the four the LED leads. (Be careful not to bridge the leads with solder or you will create a short and the LED will not work.)
+* Solder each of the four LED leads. (Be careful not to bridge the leads with solder or you will create a short and the LED will not work.)
 
 * Test the circuit and make sure that the LEDs are still working.
 
@@ -153,13 +153,13 @@ If you don’t have the appropriate colours of card stock, you can print the col
 
 ## **Finishing**
 
-* Put some hot glue on the top of the switch rectangle at the end away from the paperclip and brads. Press the bottom of the battery holder down into the glue. The pins of the battery holder will likely punch through the corrugated rectangle. Alternatively, you can position the battery holder so that one pin is past the side, and the other pin is past the end of the plastic piece (diagonal across a corner). Do not worry if glue gets on the wires.
+* Put some hot glue on the top of the switch rectangle, on a corner of the end away from the paperclip and brads. Press the back of the battery holder down into the glue, so that the two soldered pins go past the side and end of the rectangle (diagonal across the corner). Do not worry if glue gets on the wires.
 
-* Put some hot glue on the bottom of the switch rectangle.  Press the switch down onto the middle of the back of the monkey.
+* Put some hot glue on the bottom of the switch rectangle. Press the switch down onto the middle of the back of the monkey. Positioning the Monkey so that the body is on the table, and the eyes are over the edge, makes it easier to press the switch down.
 
-* Find the bar pin.  Run a short bead of hot glue along the middle of the back of the branch.  Carefully press the bar pin into the hot glue.  (This pin is for pinning the monkey onto clothing or a lanyard.)
+* Locate the bar pin. Run a short bead of hot glue along the middle of the back of the branch. Carefully press the bar pin into the hot glue. (This pin is for pinning the monkey onto clothing or a lanyard.)
 
-* Test the circuit one last time.
+* Test the circuit one last time, this time fully inserting the battery until it clicks in place (this often requires a fair bit of force).
 
 ![final result: back](pictures/Monkey-switch-on-back.png "Switch and Battery Holder glued in place")
 
