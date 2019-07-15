@@ -71,7 +71,7 @@
 
 ![creating loop](pictures/level1-twisted-loop.png "Joined Wires with loop")
 
-* Working on the backside of the switch, slide this loop around one of the wings of a brass brad and into the centre of the brass brad.
+* Working on the back side of the switch, slide this loop around one of the wings of a brass brad and into the centre of the brass brad.  The silver (uninsulated) end needs to be on top.  That is the piece to be soldered.
 
 ![2 wires soldered to switch](pictures/level1-twisted-to-switch.png "Joined Wires soldered to switch")
 
@@ -93,7 +93,7 @@
 
 ![battery holder with red wires](pictures/level1-battery-holder-plus.png "Red Wires soldered to positive post of battery holder")
 
-**Wire-wrapping Hints:** When loading the wire-wrapping tool, try to avoid bending and kinking the wire. Do not feed the insulated part of the wire into the tool. When spinning the tool, place a finger over the wire near the tool to keep the insulated part of the wire from being caught up in the wrapped wire. If the tool does not spin freely, it probably means that you have set the tool down on the outside hole, rather than the centre hole; lift the tool and try again.
+**Wire-wrapping Hints:** When loading the wire-wrapping tool, try to avoid bending and kinking the wire. Do not feed the insulated part of the wire into the tool. When spinning the tool, place a finger over the wire near the tool to keep the insulated part of the wire from being caught up in the wrapped wire. If the tool does not spin freely, it probably means that you have inserted the pin in the outside hole, rather than the centre hole; lift the tool and try again.
 
 ## **Connect the Switch**
 
@@ -129,15 +129,15 @@
 
 * **Put on safety glasses** and make sure anyone around you puts on safety glasses too.
 
-* Using wire cutters, trim the LED leads **one at a time** to 0.5 cm. **Make sure you hold onto the LED lead so it does not go flying and hurt someone.** Also, be careful not to cut any wires.
+* Using wire cutters, trim the LED leads **one at a time** to 0.5 cm. **Make sure you hold onto the LED lead so it does not go flying and hurt someone.** Also, be careful not to cut any of the red and black wires.
 
 ![shortened LED leads](pictures/BatBadge-trimmed-wires.png "Shortened LED leads")
 
 ## **Finishing**
 
-* Put some hot glue on the top of the switch rectangle, on a corner of the end away from the paperclip and brads. Press the back of the battery holder down into the glue, so that the two soldered pins go past the side and end of the rectangle (diagonal across the corner). Do not worry if glue gets on the wires.
+* Put some hot glue on the **top** of the switch rectangle, on a corner of the end away from the paperclip and brads. Press the back of the battery holder down into the glue, so that the two soldered pins go past the side and end of the rectangle (diagonal across the corner). Do not worry if glue gets on the wires.
 
-* Put some hot glue on the bottom of the switch rectangle. Press the switch down onto the centre of the oval. Positioning the badge so that most of the oval is on the table, with the eyes over the edge, makes it easier to press the switch down.
+* Put some hot glue on the **bottom** of the switch rectangle. Press the switch down onto the centre of the oval. Positioning the badge so that most of the oval is on the table, with the eyes over the edge, makes it easier to press the switch down.
 
 * Locate the bar pin. Run a short bead of hot glue along the top backside of the oval. Carefully press the bar pin into the hot glue. (This pin is for pinning the bat onto clothing or a lanyard.)
 

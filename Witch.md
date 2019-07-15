@@ -7,7 +7,7 @@
 
 # **WESTERN CANADIAN ROBOTICS SOCIETY**
 
-## **Introduction****
+## **Introduction**
 The Witch Blinky-bot described in this instructable is a Level Two project.&nbsp; Completing a Level One Blinky-bot is a pre-requisite before attempting this project.&nbsp; You can expect to spend a minimum of two hours building this project.
 
 The [electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit) for Level One Blinky-bots is quite simple, consisting of wires, a battery and some fast-blinking multi-coloured LEDs.&nbsp; The LEDs blink because of an internal circuit in the LEDs.&nbsp; For the Witch Blinky-bot described here (and for the comparable Frankenstein Blinky-bot), the circuit is more complicated, with three additional components -- resistors, capacitors and transistors.&nbsp; Two single-coloured LEDs blink in an alternating pattern, using a circuit known as an [astable multivibrator](https://en.wikipedia.org/wiki/Multivibrator).&nbsp; The Witch Blinky-bot uses two NPN transistors, while the Frankenstein Blinky-bot accomplishes the same task using two PNP transistors (more on this later).

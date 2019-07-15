@@ -11,6 +11,6 @@ The Halloween pumpkin eyes use a pair of LED matrices.  Those can be used for a 
   * click the "Raw" button on the above linked page, to get a page that is easy to copy the code from.
   * Going further
     * Set a message to display initially, until a new message is supplied/
-    * Replace the scroll step delay with code that used elapsed time checks.  This would allow changing the displayed message immediately, instead of only when the last of the current message has scrolled through.
+    * Replace the scroll step delay with code that uses elapsed time checks.  This would allow changing the displayed message immediately, instead of only when the last of the current message has scrolled through.
     * What changes would be needed to handle 2 Matrices, to display 2 full characters at a time?
       * Hints: 2 addresses; bigger buffer area.

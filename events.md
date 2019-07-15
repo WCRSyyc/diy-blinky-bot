@@ -1,16 +1,26 @@
 # Blinky-Bot build events
 
-### Setup
-* Tables
-* Signage and Wire Support
-* Donation Box
-* Suggested Donation Signage
-* Extension Cords
-* Name Tags
-* Business cards
-* Duct tape
+## Setup
 
-### Tools
+* Tables
+* Signage
+  * WCRS with Wire Support
+  * Blinky Bots
+  * "Hot"
+  * Suggested Donation
+  * QR code
+    * https://wcrsyyc.github.io/diy-blinky-bot/
+    * https://wcrsyyc.github.io/
+    * https://www.facebook.com/WCRS.YYC/
+* Donation Box
+* Extension Cords and Power Bars
+* Name Tags
+* Business cards and Holder
+* Duct tape
+* First Aid kit
+
+## Tools
+
 * Soldering Irons and Tins
 * Glue Guns and Tins
 * Wire Wrap Tools
@@ -19,10 +29,12 @@
 * Straight Pins
 * Solder Sucker
 * X-acto Knife
-* cutting board
-* needle nose pliers
+* Cutting board
+* Needle nose pliers
+* Multimeter
 
-### Supplies
+## Supplies
+
 * White glue
 * Hot Glue sticks
 * Solder
@@ -33,8 +45,10 @@
 * Scrap Card stock and Tin
 * Scotch Tape
 * Sandwich baggies
+* Spare soldering iron tips
 
-### Kits
+## Kits
+
 * Instructions
   * Ladybug
   * Black Bat
@@ -47,6 +61,7 @@
   * Monster (standup)
   * Monkey
   * Halloween Eyes
+
 * Spare Parts
   * Coin Cell Batteries
   * Battery Holders
