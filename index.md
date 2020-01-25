@@ -35,6 +35,7 @@ Information for working with the WCRS Blinky Bot projects.
 **NOTE:** Not all of the files exist yet.  The links were created with the files names that will be there later.  Just lazy.  I did not want to have to modify this file every time a new booklet or template was available.
 
 ##### Level 1
+
 * [BatBadge booklet](BatBadge-booklet.pdf)
 * [BlackBat booklet](BlackBat-booklet.pdf)
 * [Butterfly booklet](Butterfly-booklet.pdf)
@@ -63,6 +64,7 @@ These are files containing images the *body parts* needed for the kits.  Each pa
 **NOTE:** Not all of the files exist yet.  The links were created with the files names that will be there later.  Just lazy.  I did not want to have to modify this file every time a new booklet or template was available.  Most that do not have a pdf link here yet, do exist as Microsoft Word documents in the [github repository](https://github.com/WCRSyyc/diy-blinky-bot).  Those tend to be older versions, and (for some people) may not be as convenient to download and print.
 
 #### Level 1
+
 * [BatBadge template](BatBadge-template.pdf)
 * [BlackBat template](BlackBat-template.pdf)
 * [Butterfly template](Butterfly-template.pdf)

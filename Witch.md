@@ -1,4 +1,5 @@
 ﻿# <center><b>WITCH BLINKY-BOT INSTRUCTABLE</b></center>
+
 ---
 
 ## **Level Two Build**
@@ -8,14 +9,15 @@
 # **WESTERN CANADIAN ROBOTICS SOCIETY**
 
 ## **Introduction**
-The Witch Blinky-bot described in this instructable is a Level Two project.&nbsp; Completing a Level One Blinky-bot is a pre-requisite before attempting this project.&nbsp; You can expect to spend a minimum of two hours building this project.
+
+The Witch Blinky-bot described in this instructable is a Level Two project.&nbsp; Completing a Level One Blinky-bot is a pre-requisite before attempting this project.&nbsp; You can expect to spend a minimum of two hours building this project, if all you do is put it together.  We suggest spending some time first to get the circuit working on a breadboard before transferring it to the face.
 
 The [electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit) for Level One Blinky-bots is quite simple, consisting of wires, a battery and some fast-blinking multi-coloured LEDs.&nbsp; The LEDs blink because of an internal circuit in the LEDs.&nbsp; For the Witch Blinky-bot described here (and for the comparable Frankenstein Blinky-bot), the circuit is more complicated, with three additional components -- resistors, capacitors and transistors.&nbsp; Two single-coloured LEDs blink in an alternating pattern, using a circuit known as an [astable multivibrator](https://en.wikipedia.org/wiki/Multivibrator).&nbsp; The Witch Blinky-bot uses two NPN transistors, while the Frankenstein Blinky-bot accomplishes the same task using two PNP transistors (more on this later).
 
 The instructions presented in this booklet concentrate on assembly instructions.&nbsp; However, if you take the time, this project is a great opportunity to learn much more, such as:
 
 * how to read an electronic circuit [schematic](https://en.wikipedia.org/wiki/Circuit_diagram)
-* breadboarding skills
+* [breadboarding](https://github.com/WCRSyyc/ardx/wiki/Breadboard) skills
 * what resistors, capacitors, diodes, and transistors do, and how they work
 * how the value of the resistors and capacitors affect the blink rate
 * how the same blinking pattern can be accomplished with at least three different circuits
@@ -90,35 +92,35 @@ The circuit used for the Witch Blinky-bot is known as an astable multivibrator.&
 
 ![astable multivibrator schematic](pictures/level2-blink-schematic.png "Schematic of Astable Multivibrator circuits")
 
-From: http://led-circuits.blogspot.ca/2011/02/2-transistor-led-flasher.html
+From: [http://led-circuits.blogspot.ca/2011/02/2-transistor-led-flasher.html](http://led-circuits.blogspot.ca/2011/02/2-transistor-led-flasher.html)
 
 | <center>How to Read a Circuit Schematic</center> |
 | :--- |
 ||
-| Simply stated, a schematic is a map, which shows how electronic components are connected between a power source and ground.&nbsp; This does not (necessarily) show where the components are placed, only how they are linked (by wires) together.&nbsp; To be able to build circuits, you will need to know the symbols for various electronic components.&nbsp; For this project, you will need to know the symbols for diodes, resistors, capacitors, transistors, batteries, and ground.&nbsp; (Note that LED’s are a type of diode, as LED stands for light emitting diode.)&nbsp; You also need to be careful of polarity when connecting your components.&nbsp; If a component has polarity, the positive end must be connected toward the power source and the negative end must be connected toward the ground.&nbsp; If a component does not have polarity, it may be connected in either direction.&nbsp; There are many sources to learn about circuit schematics.&nbsp; Here is one such source:<br/><br/>https://learn.sparkfun.com/tutorials/how-to-read-a-schematic |
+| Simply stated, a schematic is a map, which shows how electronic components are connected between a power source and ground.&nbsp; This does not (necessarily) show where the components are placed, only how they are linked (by wires) together.&nbsp; To be able to build circuits, you will need to know the symbols for various electronic components.&nbsp; For this project, you will need to know the symbols for diodes, resistors, capacitors, transistors, batteries, and ground.&nbsp; (Note that LED’s are a type of diode, as LED stands for light emitting diode.)&nbsp; You also need to be careful of polarity when connecting your components.&nbsp; If a component has polarity, the positive end must be connected toward the power source and the negative end must be connected toward the ground.&nbsp; If a component does not have polarity, it may be connected in either direction.&nbsp; There are many sources to learn about circuit schematics.&nbsp; Here is one such source:<br/><br/>[https://learn.sparkfun.com/tutorials/how-to-read-a-schematic](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic) |
 
 | <center>Resistors</center> |
 | :--- |
 | ![several different resistors](pictures/level2-resistor-parts.png "example resistors") |
-| A resistor restricts the flow of current, in much the same way that a water faucet restricts the flow of water.&nbsp; Resistors help channel current flow in the right direction and protect other components, such as LEDs, from receiving too much current.&nbsp; Resistance, voltage, and current are related according to Ohm’s Law.&nbsp; Learn about resistors and Ohm’s Law here:<br/><br/>https://www.youtube.com/watch?v=Gc1wVdbVI0E<br/><br/>Resistance is measured in ohms.&nbsp; If you have not already done so, now is a good time to learn about how to use a multimeter to measure resistance.<br/><br/>https://www.youtube.com/watch?v=TdUK6RPdIrA
+| A resistor restricts the flow of current, in much the same way that a water faucet restricts the flow of water.&nbsp; Resistors help channel current flow in the right direction and protect other components, such as LEDs, from receiving too much current.&nbsp; Resistance, voltage, and current are related according to Ohm’s Law.&nbsp; Learn about resistors and Ohm’s Law here:<br/><br/>[https://www.youtube.com/watch?v=Gc1wVdbVI0E](https://www.youtube.com/watch?v=Gc1wVdbVI0E)<br/><br/>Resistance is measured in ohms.&nbsp; If you have not already done so, now is a good time to learn about how to use a multimeter to measure resistance.<br/><br/>[https://www.youtube.com/watch?v=TdUK6RPdIrA](https://www.youtube.com/watch?v=TdUK6RPdIrA)
 | ![schematic resistor symbol](pictures/level2-schematic-resistor.png "resistor schematic symbol") |
 
 | <center>Capacitors</center> |
 | :--- |
 | ![several different capacitors](pictures/level2-capacitor-parts.png "example capacitors") |
-| Capacitors store and discharge energy, much like a battery.&nbsp; The difference is that batteries store their energy in a chemical form, whereas capacitors store their energy in an electric field.&nbsp; Capacitance is measured in Farads.&nbsp; Larger capacitors have polarity, whereas smaller capacitors often do not.&nbsp; Here is one source to learn more about capacitors:<br/><br/>https://www.youtube.com/watch?v=0gZKik_BhQQ
+| Capacitors store and discharge energy, much like a battery.&nbsp; The difference is that batteries store their energy in a chemical form, whereas capacitors store their energy in an electric field.&nbsp; Capacitance is measured in Farads.&nbsp; Larger capacitors have polarity, whereas smaller capacitors often do not.&nbsp; Here is one source to learn more about capacitors:<br/><br/>[https://www.youtube.com/watch?v=0gZKik_BhQQ](https://www.youtube.com/watch?v=0gZKik_BhQQ)
 | ![schematic capacitor symbol](pictures/level2-schematic-capacitor.png "capacitor schematic symbol") |
 
 | <center>Diodes</center> |
 | :--- |
 | ![several different diodes](pictures/level2-diode-parts.png "example diodes") |
-| A diode acts like a check valve; it allows current to flow in one direction and resists current flow in the other direction.&nbsp; Consequently, diodes have polarity.&nbsp; LEDs (light-emitting diodes) are just one of many types of diodes.&nbsp; The basis for a diode is a PN junction, which is also an important concept for transistors.&nbsp; To learn about PN junctions and diodes, check out:<br/><br/>https://www.youtube.com/watch?v=ar7xDMR4P_U |
+| A diode acts like a check valve; it allows current to flow in one direction and resists current flow in the other direction.&nbsp; Consequently, diodes have polarity.&nbsp; LEDs (light-emitting diodes) are just one of many types of diodes.&nbsp; The basis for a diode is a PN junction, which is also an important concept for transistors.&nbsp; To learn about PN junctions and diodes, check out:<br/><br/>[https://www.youtube.com/watch?v=ar7xDMR4P_U](https://www.youtube.com/watch?v=ar7xDMR4P_U) |
 | ![schematic diode symbol](pictures/level2-schematic-diode.png "diode schematic symbol") |
 
 | <center>Transistors</center> |
 | :--- |
 | ![several different transistors](pictures/level2-transistor-parts.png "example transistors") |
-| A transistor can be used as a switch or as an amplifier.&nbsp; In the case of the Witch robot, the two transistors function as switches.&nbsp; (You can clearly see how the transistors function as switches if you do the simulator exercise.)&nbsp; When placing transistors in a circuit, make sure to carefully check the data sheet for the transistor to correctly identify the base, collector, and emitter legs.&nbsp; To learn more about transistors, check out the following sites:<br/><br/>https://www.youtube.com/watch?v=7ukDKVHnac4<br/>http://www.explainthatstuff.com/howtransistorswork.html |
+| A transistor can be used as a switch or as an amplifier.&nbsp; In the case of the Witch robot, the two transistors function as switches.&nbsp; (You can clearly see how the transistors function as switches if you do the simulator exercise.)&nbsp; When placing transistors in a circuit, make sure to carefully check the data sheet for the transistor to correctly identify the base, collector, and emitter legs.&nbsp; To learn more about transistors, check out the following sites:<br/><br/>[https://www.youtube.com/watch?v=7ukDKVHnac4](https://www.youtube.com/watch?v=7ukDKVHnac4)<br/>[http://www.explainthatstuff.com/howtransistorswork.html](http://www.explainthatstuff.com/howtransistorswork.html) |
 | ![schematic transistor symbol](pictures/level2-schematic-transistor.png "transistor schematic symbol") |
 | Note: The transistors used and described here are [Bipolar Junction Transistors](https://en.wikipedia.org/wiki/Bipolar_junction_transistor) (BJT).&nbsp; There are other types of transistors as well. |
 
@@ -129,7 +131,7 @@ The circuit for the Witch Blinky-bot is sufficiently complicated that it is stro
 | <center>How to Use a Breadboard</center> |
 | :-- |
 | ![typical breadboard](pictures/level2-breadboard-part.png "830 tie point breadboard") |
-| There are many Internet sources that explain breadboarding.&nbsp; Here is one such source:<br/><br/> https://www.youtube.com/watch?v=6WReFkfrUIk<br/><br/>It is important to understand how to supply power to a breadboard and which the rails (or rows) on a breadboard are common (connected).&nbsp; Note that, by convention, the red rail is connected to power and the blue/black rail is connected to ground. |
+| There are many Internet sources that explain breadboarding.&nbsp; Here is one such source:<br/><br/>[https://www.youtube.com/watch?v=6WReFkfrUIk](https://www.youtube.com/watch?v=6WReFkfrUIk)<br/><br/>It is important to understand how to supply power to a breadboard and which the rails (or rows) on a breadboard are common (connected).&nbsp; Note that, by convention, the red rail is connected to power and the blue/black rail is connected to ground. |
 
 * Place the supplies into a small container to keep small parts from getting lost.
 
@@ -141,7 +143,7 @@ Note that LEDs have polarity.&nbsp; The long leg of the LED is positive, so it i
 
 Note that the capacitors also have polarity.&nbsp; Like the LEDs, the long leg is positive, so it is connected to the power side.&nbsp; The short leg is negative, so it is connected toward the ground.
 
-All NPN transistors are represented by:
+All NPN transistors are represented by a symbol similar to:
 
 ![NPN transistor schematic symbol](pictures/level2-schematic-npn-transistor.png "NPN transistor schematic symbol")
 
@@ -159,6 +161,7 @@ Once you have completed the circuit on a breadboard and carefully checked it for
 * The LEDs should blink in an alternating pattern.&nbsp; If they don’t, turn the power supply off and troubleshoot the circuit.&nbsp; A multimeter is useful to check connectivity.
 
 <a name="getting_the_most"></a>
+
 ## **Getting the Most Out of This Project**
 
 With your circuit working and before you solder it into a finished product, now is a good time to experiment with it and to customize it to your own preferences.
@@ -181,7 +184,7 @@ Here are some other activities to try:
 
 * Build the same circuit with PNP transistors (the Frankenstein Blinky-bot).&nbsp; How do the two circuits compare?
 
-* Build another version of this circuit with a 555 timer chip, such as described here:<br/><br/>http://www.learningaboutelectronics.com/Articles/LED-flasher-circuit.php.
+* Build another version of this circuit with a 555 timer chip, such as described here:<br/><br/>[http://www.learningaboutelectronics.com/Articles/LED-flasher-circuit.php](http://www.learningaboutelectronics.com/Articles/LED-flasher-circuit.php).
 
 ## **Assembling the Witch Blinky-Bot**
 
@@ -215,16 +218,16 @@ Here are some other activities to try:
 
 * Prepare the wire pieces.&nbsp; Cut the wire to length and then, using a wirewrap tool, strip the wire  cm on both ends.&nbsp; (Normally, a wirewrap tool comes with a stripper, which is designed to be used on AWG30 wire.&nbsp; Most other wire strippers cannot strip wire this small.)
 
- * 3 – 5cm pieces of black AWG30 wire
- * 1 – 3cm piece of red AWG30 wire
- * 2 – 5cm piece of red AWG30 wire
- * 1 – 9cm piece of red AWG30 wire
- * 1 – 4cm piece of yellow AWG30 wire
- * 2 – 5cm pieces of yellow AWG30 wire
- * 2 – 6cm pieces of yellow AWG30 wire
- * 1 – 7cm pieces of yellow AWG30 wire
- * 2 – 9cm pieces of yellow AWG30 wire
- * 2 – 12cm pieces of yellow AWG30 wire
+  * 3 – 5cm pieces of black AWG30 wire
+  * 1 – 3cm piece of red AWG30 wire
+  * 2 – 5cm piece of red AWG30 wire
+  * 1 – 9cm piece of red AWG30 wire
+  * 1 – 4cm piece of yellow AWG30 wire
+  * 2 – 5cm pieces of yellow AWG30 wire
+  * 2 – 6cm pieces of yellow AWG30 wire
+  * 1 – 7cm pieces of yellow AWG30 wire
+  * 2 – 9cm pieces of yellow AWG30 wire
+  * 2 – 12cm pieces of yellow AWG30 wire
 
 ![wire pieces for witch](pictures/Witch-wire-pieces.png "prepared wire pieces")
 
