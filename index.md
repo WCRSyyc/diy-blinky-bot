@@ -28,7 +28,7 @@ Information for working with the WCRS Blinky Bot projects.
 
 #### Level 3
 
-* Pumpkin
+* [Pumpkin](Pumpkin.md)
 
 #### Printable booklets
 
@@ -82,6 +82,10 @@ These are files containing images the *body parts* needed for the kits.  Each pa
 * [Witch template](Witch-template.pdf)
 * [Frankenstein template](Frankenstein-template.pdf)
 * [Astable Multivibrator](Multivibrator-Circuit-template.pdf)
+
+#### Level 3
+
+* [Pumpkin template](Pumpkin-template.pdf)
 
 ## documentation
 
